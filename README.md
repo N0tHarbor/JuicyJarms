@@ -2,5 +2,5 @@ Work in Progress Jarm Tool. Remove Return Statment in ./src/Jarm_Threaded.py to 
 
 By: N0tHarbor
 
-usage: Juice.py [-P] [-p] [-h] [Enum,DB,Alrt] ...
+usage: python3 Juice.py --help
 
