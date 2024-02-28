@@ -1,12 +1,5 @@
 Work in Progress Jarm Tool. Remove Return Statment in ./src/Jarm_Threaded.py to see output or read SQLite file.
 
-
-       __      _                __
-      / /_  __(_)______  __    / /___ __________ ___  _____
- __  / / / / / / ___/ / / /_  / / __ `/ ___/ __ `__ \/ ___/
-/ /_/ / /_/ / / /__/ /_/ / /_/ / /_/ / /  / / / / / (__  )
-\____/\__,_/_/\___/\__, /\____/\__,_/_/  /_/ /_/ /_/____/
-                  /____/
 By: N0tHarbor
 
 usage: Juice.py [-P] [-p] [-h] [Enum,DB,Alrt] ...
